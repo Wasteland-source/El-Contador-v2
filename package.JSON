@@ -1,0 +1,8 @@
+{
+“name”: “El Contador”,
+“version”: “1.2.1”,
+“description”: “A simple discord bot for me to teach myself the discord.js library and to apply Js in a real world application”,
+“main”: “El Contador.js”,
+“author”: “Wasteland Doctrine”,
+“dependencies”: {discord.js}
+}
